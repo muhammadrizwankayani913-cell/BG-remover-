@@ -119,5 +119,4 @@ statusBar.style.display='block';
 statusBar.innerText='[SYSTEM] '+msg;
 }
 </script>
-</body>
-</html>
+
