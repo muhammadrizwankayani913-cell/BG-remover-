@@ -277,5 +277,4 @@ function download(){
     alert('Image downloaded!');
 }
 </script>
-</body>
-</html>
+</bo
